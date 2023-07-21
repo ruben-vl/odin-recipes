@@ -1,0 +1,13 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.title {
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 15px;
+}
+
+.copyright {
+    font-size: 10pt;
+}

@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    background-color: rgb(42, 158, 58);
+    padding: 15px;
+}
+
+.recipe-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
